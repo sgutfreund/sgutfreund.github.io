@@ -6,10 +6,10 @@ h1 {
 	font-size: 56px;
 	font-family: "Courier New";
 	color: #708090;
-	margin-left: 25%;
-	margin-bottom: 25%;
-	margin-right: 25%;
-	margin-top: 25%;
+	padding-top: 75px;
+	padding-bottom: 75px;
+	padding-left: 100px;
+	padding-right: 100px;
 
 }
 
