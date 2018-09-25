@@ -6,6 +6,10 @@ h1 {
 	font-size: 56px;
 	font-family: "Courier New";
 	color: #708090;
+	margin-left: 25%;
+	margin-bottom: 25%;
+	margin-right: 25%;
+	margin-top: 25%;
 
 }
 
@@ -45,5 +49,11 @@ p {
 a:link, a:visited {
 
 	color: #708090;
+
+}
+
+a:hover {
+
+	color: #E6E6FA;
 
 }
