@@ -14,7 +14,7 @@ h1 {
 
 h3 {
 
-	font-size: 36px;
+	font-size: 28px;
 	font-family: "Courier New";
 	color: #708090;
 
@@ -22,7 +22,7 @@ h3 {
 
 p {
 
-	font-size: 24px;
+	font-size: 20px;
 	font-family: "Courier New";
 	color: #708090;
 
@@ -31,6 +31,14 @@ p {
 ul {
 
 	font-size: 24px;
+	font-family: "Courier New";
+	color: #708090;
+
+}
+
+.description {
+
+	font-size: 18px;
 	font-family: "Courier New";
 	color: #708090;
 
