@@ -1,4 +1,4 @@
-/* styling for all top-of-page titles */
+/* styling for top-of-page titles */
 h1 {
 
 	background-color: #E6E6FA;
@@ -7,7 +7,7 @@ h1 {
 	font-family: "Courier New";
 	color: #708090;
 
-};
+}
 
 /* link styling */
 a {
@@ -17,7 +17,7 @@ a {
 	font-family: "Courier New";
 	color: #708090;
 
-};
+}
 
 /* bio text style */
 p {
@@ -29,4 +29,4 @@ p {
 	margin-left: 50px;
 	margin-right: 50px;
 
-};
+}
