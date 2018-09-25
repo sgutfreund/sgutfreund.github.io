@@ -41,3 +41,9 @@ p {
 	margin: auto;
 
 }
+
+a:link, a:visited {
+
+	color: #708090;
+
+}
