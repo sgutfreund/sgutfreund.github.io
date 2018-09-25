@@ -37,5 +37,7 @@ p {
 	font-size: 30px;
 	font-family: "Courier New";
 	color: #708090;
+	display: block;
+	margin: auto;
 
 }
